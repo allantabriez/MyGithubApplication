@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="username_follow">Username: %1$s</string>
+    <string name="url_follow">URL: %1$s</string>
+</resources>

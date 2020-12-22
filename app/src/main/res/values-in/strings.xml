@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submisi Keduaku</string>
+    <string name="search_user">Cari User</string>
+    <string name="username">user: %1$s</string>
+    <string name="url">Url</string>
+    <string name="tab_text_1">Profil</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="tab_text_3">Pengikut</string>
+    <string name="username_detail">User : %1$s</string>
+    <string name="name">Nama : %1$s</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="repository">Repository</string>
+    <string name="failed_get_data">Gagal mengambil data</string>
+    <string name="username_follow">Username: %1$s</string>
+    <string name="url_follow">URL: %1$s</string>
+    <string name="user_info">Info User</string>
+    <string name="language_settings">Bahasa</string>
+    <string name="favorite_list">Daftar Favorit</string>
+    <string name="key_alarm">alarm</string>
+    <string name="is_alarm">Pasang Reminder pukul 09.00</string>
+    <string name="settings">Pengaturan</string>
+    <string name="notification_title">Lihat User lain!</string>
+    <string name="notification_text">Hi, waktunya kamu cek aplikasi Github User!!</string>
+    <string name="reminder_success">Reminder berhasil dipasang!</string>
+    <string name="reminder_canceled">Reminder dimatikan</string>
+    <string name="remove_from_favorites">Remove from Favorites?</string>
+    <string name="no">TIDAK</string>
+    <string name="yes">YA</string>
+    <string name="favorites">Daftar Favorit</string>
+    <string name="no_favorites">Tidak ada daftar favorit</string>
+</resources>
